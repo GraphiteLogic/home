@@ -125,7 +125,7 @@ html {
 /* Mobile optimizations */
 @media (max-width: 768px) {
     #iframe-wrapper {
-        height: 170vh;
+        height: 200vh;
         min-height: 400px;
     }
 }
